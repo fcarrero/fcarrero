@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fcarrero
 - 👀 I’m interested in Management
 - 🌱 I’m currently learning go, java.
-- 💞️ I’m looking to collaborate on Conekta
+- 💞️ I’m looking to collaborate on DEUNA
 - 📫 How to reach me ...
 
 <!---
